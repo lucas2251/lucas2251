@@ -31,7 +31,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </kbd>
  
-<br><br>
+
  
   <br/>
   <br/>
@@ -47,7 +47,7 @@
 
  </a>
 </p>
-</ div >
+
 
 ## Métricas de Github
 <p align="center">
