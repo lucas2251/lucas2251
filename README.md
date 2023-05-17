@@ -1,40 +1,23 @@
+<div align="center" ><a href="https://github.com/lucas2251">
+<img height="600px" width="1050px" src="https://static.vecteezy.com/system/resources/previews/000/180/409/large_2x/software-engineers-vector.png"/>
+</a></div>
+
 
   ### 💻 Software and tools :
 
 <p>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+<a href="https://github.com/fedeangeles23"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="NodeJs"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="JavaScript"></a>
+<a href="https://github.com/fedeangeles23"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" alt="Git"></a>
+<a href="https://github.com/fedeangeles23"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-Express.js-787878?style=flat" alt="Express.js"></a>
+<a href="https://github.com/fedeangeles23"><img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://github.com/fedeangeles23"><img src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="https://github.com/fedeangeles23"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" alt="MySQL"></a>
 </p>
 
 
-  ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
-<kbd>
-   <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </kbd>
- 
-
- 
-  <br/>
-  <br/>
 
 
  
